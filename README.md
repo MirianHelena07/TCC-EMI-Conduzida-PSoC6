@@ -26,6 +26,6 @@ Este repositório tem o objetivo de armazenar os programas usados e os dados ger
 - Copie e descompacte a pasta "data.zip" para seu computador.
 
 *Dados Vin*
-- Assim como descrito no TCC, é necessário que escrevamos no programa que irá embarcado no PSoC principal o valor que tera a tensão de entrada do ADC Vin. Nesta pasta você encontrará alguns exemplos já prontos de valores de Vin (basta copiar e colar na memória que será utilizada pelo DAC), assim como um notebook e um arquivo python com o gerador desse arquivo txt, caso seja necessário o uso de outros valores de Vin.
+- Assim como descrito no TCC, é necessário que escrevamos no programa que irá embarcado no PSoC principal o valor que terá a tensão de entrada do ADC Vin. Nesta pasta você encontrará alguns exemplos já prontos de valores de Vin (basta copiar e colar na memória que será utilizada pelo DAC), assim como um notebook e um arquivo python com o gerador desse arquivo txt, caso seja necessário o uso de outros valores de Vin.
 - Copie e descompacte a pasta "files_Vin.zip" para seu computador.
 
